@@ -1,0 +1,33 @@
+p{
+    background-color: rgb(27, 27, 126) ;
+} 
+h1 {
+    background-color: crimson;
+}
+nav{
+ background-color: darkred;
+}
+body{
+    background-color: darkolivegreen;
+    border: white;
+    border-style:dotted;
+    padding: 100px;
+    margin:50px;
+    border-left-width: 100px;
+    
+
+
+   
+
+}
+
+h1 {
+    color:blue;
+    font-family:cursive;
+    text-align: center;
+
+
+
+
+
+}

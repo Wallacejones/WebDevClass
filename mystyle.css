@@ -1,15 +1,15 @@
 p{
-    background-color: rgb(27, 27, 126) ;
+    background-color:green;
 } 
 h1 {
-    background-color: crimson;
+    background-color: rgba(37, 220, 20, 0.664);
 }
 nav{
  background-color: darkred;
 }
 body{
     background-color: darkolivegreen;
-    border: white;
+    border: black;
     border-style:dotted;
     padding: 100px;
     margin:50px;
@@ -22,7 +22,7 @@ body{
 }
 
 h1 {
-    color:blue;
+    color:aqua;
     font-family:cursive;
     text-align: center;
 
